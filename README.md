@@ -29,8 +29,5 @@ I'm a software developer
 
 ### 📺 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onebit5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onebit5&layout=compact)            
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iqzmblpdnxno61egtyvs9l4r8)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onebit5&layout=compact)      
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@onebit5)](https://github.com/anuraghazra/github-readme-stats)
