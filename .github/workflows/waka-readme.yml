@@ -21,3 +21,6 @@ jobs:
           SHOW_LANGUAGE: TRUE
           SHOW_TIMEZONE: TRUE
           SHOW_EDITORS: TRUE
+          SHOW_TOTAL_CODE_TIME: TRUE
+          SHOW_UPDATED_DATE: TRUE
+          
