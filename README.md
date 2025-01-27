@@ -1,3 +1,5 @@
+
+[![wakatime](https://wakatime.com/badge/github/Onebit5/Onebit5.svg)](https://wakatime.com/badge/github/Onebit5/Onebit5)
 # Onebit
 
 **`Programmer`**
