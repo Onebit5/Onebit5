@@ -32,9 +32,9 @@ I'm a software developer
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onebit5&layout=compact)      
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=onebit5\&layout=compact)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2045%20mins-purple)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149.8%20million%20lines%20of%20code-purple)
 
 **🐱 My GitHub Data** 
 
