@@ -30,15 +30,13 @@ I'm a software developer
 ### 📺 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onebit5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 303.6 kB Used in GitHub's Storage 
- > 
-> 🏆 87 Contributions in the Year 2025
+> 📦 303.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -110,5 +108,5 @@ Lua                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2025 18:42:54 UTC
+ Last Updated on 03/02/2025 18:42:13 UTC
 <!--END_SECTION:waka-->
