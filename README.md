@@ -18,13 +18,11 @@ I'm a software developer
 ### 📺 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onebit5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 355.5 kB Used in GitHub's Storage 
- > 
-> 🏆 196 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -32,49 +30,6 @@ I'm a software developer
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-🌆 Daytime                47 commits          █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-🌃 Evening                66 commits          ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-🌙 Night                  123 commits         ████████████░░░░░░░░░░░░░   49.40 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   47 commits          █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Tuesday                  33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Wednesday                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Thursday                 23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Friday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Saturday                 50 commits          █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Sunday                   56 commits          ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-C#                       9 hrs 54 mins       ████████████████████████░   97.65 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-
-🔥 Editors: 
-Visual Studio            9 hrs 54 mins       ████████████████████████░   97.65 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-
-🐱‍💻 Projects: 
-Project Tale             9 hrs 54 mins       ████████████████████████░   97.65 % 
-Portfolio                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-
-💻 Operating System: 
-Windows                  10 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -92,5 +47,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2025 18:44:21 UTC
+ Last Updated on 20/04/2025 18:46:49 UTC
 <!--END_SECTION:waka-->
