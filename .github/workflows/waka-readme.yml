@@ -18,7 +18,7 @@ jobs:
           SHOW_LINES_OF_CODE: false
           SHOW_OS: TRUE
           SHOW_PROJECTS: false
-          SHOW_LANGUAGE: TRUE
+          SHOW_LANGUAGE: false
           SHOW_TIMEZONE: TRUE
           SHOW_EDITORS: TRUE
           SHOW_TOTAL_CODE_TIME: TRUE
