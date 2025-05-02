@@ -18,8 +18,6 @@ I'm a software developer
 ### 📺 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onebit5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2034%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 359.5 kB Used in GitHub's Storage 
@@ -30,40 +28,6 @@ I'm a software developer
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-🌆 Daytime                53 commits          █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-🌃 Evening                70 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-🌙 Night                  124 commits         ████████████░░░░░░░░░░░░░   46.62 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   47 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Wednesday                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Saturday                 50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Sunday                   61 commits          ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-🔥 Editors: 
-VS Code                  8 hrs 53 mins       ████████████████░░░░░░░░░   62.86 % 
-Visual Studio            5 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-
-💻 Operating System: 
-Windows                  14 hrs 8 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -81,5 +45,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 18:48:58 UTC
+ Last Updated on 02/05/2025 18:48:12 UTC
 <!--END_SECTION:waka-->
