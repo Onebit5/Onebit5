@@ -24,6 +24,8 @@ I'm a software developer
 
 > 📦 359.5 kB Used in GitHub's Storage 
  > 
+> 🏆 210 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -57,11 +59,11 @@ Sunday                   61 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 🔥 Editors: 
-VS Code                  6 hrs 25 mins       ██████████████░░░░░░░░░░░   55.04 % 
-Visual Studio            5 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
+Visual Studio            24 mins             ██████████████░░░░░░░░░░░   56.57 % 
+VS Code                  18 mins             ███████████░░░░░░░░░░░░░░   43.43 % 
 
 💻 Operating System: 
-Windows                  11 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -81,5 +83,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2025 18:47:52 UTC
+ Last Updated on 06/05/2025 18:48:40 UTC
 <!--END_SECTION:waka-->
