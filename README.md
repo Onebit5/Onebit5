@@ -18,11 +18,13 @@ I'm a software developer
 ### 📺 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onebit5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2022%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 360.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 219 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -30,40 +32,6 @@ I'm a software developer
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-🌆 Daytime                58 commits          █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-🌃 Evening                72 commits          ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-🌙 Night                  124 commits         ███████████░░░░░░░░░░░░░░   45.42 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   47 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Saturday                 57 commits          █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Sunday                   61 commits          ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-🔥 Editors: 
-VS Code                  15 hrs 8 mins       ████████████████░░░░░░░░░   65.58 % 
-Visual Studio            7 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
-
-💻 Operating System: 
-Windows                  23 hrs 5 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -81,5 +49,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2025 18:48:09 UTC
+ Last Updated on 27/05/2025 18:50:43 UTC
 <!--END_SECTION:waka-->
