@@ -24,6 +24,8 @@ I'm a software developer
 
 > 📦 360.3 kB Used in GitHub's Storage 
  > 
+> 🏆 219 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -80,5 +82,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2025 18:47:49 UTC
+ Last Updated on 16/06/2025 18:52:01 UTC
 <!--END_SECTION:waka-->
