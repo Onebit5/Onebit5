@@ -18,7 +18,7 @@ I'm a software developer
 ### 📺 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onebit5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%205%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -59,11 +59,11 @@ Sunday                   97 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 🔥 Editors: 
-VS Code                  8 hrs 18 mins       ██████████████████░░░░░░░   73.64 % 
-Visual Studio            2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+VS Code                  8 hrs 28 mins       ███████████████████░░░░░░   74.54 % 
+Visual Studio            2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
 
 💻 Operating System: 
-Windows                  11 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -83,5 +83,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2025 18:47:38 UTC
+ Last Updated on 25/09/2025 18:50:32 UTC
 <!--END_SECTION:waka-->
