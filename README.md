@@ -18,17 +18,17 @@ I'm a software developer
 ### 📺 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onebit5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2059%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 381.0 kB Used in GitHub's Storage 
  > 
-> 🏆 291 Contributions in the Year 2025
+> 🏆 293 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -59,21 +59,21 @@ Sunday                   99 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 🔥 Editors: 
-VS Code                  18 hrs 50 mins      ████████████████████████░   95.01 % 
-Visual Studio            59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+VS Code                  17 hrs 47 mins      ████████████████████████░   94.73 % 
+Visual Studio            59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 💻 Operating System: 
-Windows                  19 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-C                        3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-C#                       3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C++                      7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
+C                        3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C#                       3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
@@ -83,5 +83,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 18:44:54 UTC
+ Last Updated on 05/10/2025 18:45:22 UTC
 <!--END_SECTION:waka-->
