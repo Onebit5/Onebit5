@@ -59,11 +59,10 @@ Sunday                   99 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 🔥 Editors: 
-VS Code                  10 hrs 5 mins       █████████████████████████   99.38 % 
-Visual Studio            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -83,5 +82,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2025 18:48:37 UTC
+ Last Updated on 11/10/2025 18:43:15 UTC
 <!--END_SECTION:waka-->
