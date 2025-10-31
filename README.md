@@ -18,7 +18,7 @@ I'm a software developer
 ### 📺 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onebit5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2011%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -32,39 +32,6 @@ I'm a software developer
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-🌆 Daytime                93 commits          █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-🌃 Evening                154 commits         ████████░░░░░░░░░░░░░░░░░   33.55 % 
-🌙 Night                  188 commits         ██████████░░░░░░░░░░░░░░░   40.96 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Wednesday                45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Thursday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Saturday                 92 commits          █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Sunday                   99 commits          █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-🔥 Editors: 
-VS Code                  15 hrs 55 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  15 hrs 55 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -82,5 +49,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2025 18:52:03 UTC
+ Last Updated on 31/10/2025 18:51:18 UTC
 <!--END_SECTION:waka-->
