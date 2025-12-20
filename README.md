@@ -28,9 +28,9 @@ I'm a software developer
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 10 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -82,5 +82,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2025 18:55:20 UTC
+ Last Updated on 20/12/2025 18:49:25 UTC
 <!--END_SECTION:waka-->
