@@ -18,7 +18,7 @@ I'm a software developer
 ### 📺 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onebit5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%2026%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -32,6 +32,40 @@ I'm a software developer
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+🌆 Daytime                84 commits          █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+🌃 Evening                164 commits         ██████████░░░░░░░░░░░░░░░   38.86 % 
+🌙 Night                  152 commits         █████████░░░░░░░░░░░░░░░░   36.02 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   68 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Tuesday                  64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Wednesday                45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Thursday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Friday                   54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Saturday                 82 commits          █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Sunday                   78 commits          █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+🔥 Editors: 
+Visual Studio            6 hrs 52 mins       ████████████████████████░   97.80 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+
+💻 Operating System: 
+Windows                  7 hrs 1 min         █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -47,5 +81,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Onebit5/Onebit5/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2026 19:04:49 UTC
+ Last Updated on 28/01/2026 19:02:10 UTC
 <!--END_SECTION:waka-->
