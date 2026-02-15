@@ -17,15 +17,13 @@ I'm a engine/systems programmer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 508.3 kB Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2026
+> 🏆 95 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,5 +54,5 @@ Windows                  10 hrs 15 mins      ███████████�
 ```
 
 
- Last Updated on 15/02/2026 15:45:55 UTC
+ Last Updated on 15/02/2026 15:49:11 UTC
 <!--END_SECTION:waka-->
