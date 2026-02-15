@@ -1,8 +1,9 @@
 name: wakatime-stats
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '* * * * *'  # Runs every minute
+    - cron: '0 0 * * *' # Runs at 00:00 UTC
 
 jobs:
   update-readme:
