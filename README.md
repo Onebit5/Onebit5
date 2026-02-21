@@ -17,13 +17,13 @@ I'm a engine/systems programmer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2017%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 508.3 kB Used in GitHub's Storage 
  > 
-> 🏆 100 Contributions in the Year 2026
+> 🏆 101 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,21 +37,16 @@ I'm a engine/systems programmer
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-HTML                     5 hrs 53 mins       ████████████████████░░░░░   80.59 % 
-nanorc                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-INI                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+HTML                     14 mins             ████████████████████████░   97.27 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 45 mins       ████████████████░░░░░░░░░   65.05 % 
-VS Code                  2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.95 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 45 mins       ████████████████░░░░░░░░░   65.05 % 
-Windows                  2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.95 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/02/2026 01:53:55 UTC
+ Last Updated on 21/02/2026 01:49:36 UTC
 <!--END_SECTION:waka-->
