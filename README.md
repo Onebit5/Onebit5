@@ -23,7 +23,7 @@ I'm a engine/systems programmer
 
 > 📦 508.3 kB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2026
+> 🏆 104 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,16 +37,15 @@ I'm a engine/systems programmer
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-HTML                     5 mins              ███████████████████████░░   92.43 % 
-CSS                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/02/2026 01:59:02 UTC
+ Last Updated on 24/02/2026 01:55:25 UTC
 <!--END_SECTION:waka-->
