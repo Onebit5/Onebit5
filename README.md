@@ -15,15 +15,15 @@ I'm a engine/systems programmer
 
 ### 📺 Stats             
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-729%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-729%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.61%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 508.4 kB Used in GitHub's Storage 
  > 
-> 🏆 128 Contributions in the Year 2026
+> 🏆 129 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,21 +37,19 @@ I'm a engine/systems programmer
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-C                        10 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   34.54 % 
-Diff                     5 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-conf                     4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Text                     3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-C++                      3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+C                        9 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.17 % 
+conf                     4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Diff                     4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Text                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-Neovim                   27 hrs 14 mins      ██████████████████████░░░   88.72 % 
-VS Code                  3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Neovim                   21 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    27 hrs 14 mins      ██████████████████████░░░   88.72 % 
-Windows                  3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Linux                    21 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/03/2026 01:54:26 UTC
+ Last Updated on 06/03/2026 01:55:58 UTC
 <!--END_SECTION:waka-->
