@@ -23,7 +23,7 @@ I'm a engine/systems programmer
 
 > 📦 508.4 kB Used in GitHub's Storage 
  > 
-> 🏆 130 Contributions in the Year 2026
+> 🏆 131 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,19 +37,19 @@ I'm a engine/systems programmer
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-C                        8 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.15 % 
-conf                     4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-Diff                     3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-mail                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+C                        7 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.84 % 
+conf                     4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Diff                     3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+mail                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-Neovim                   19 hrs 7 mins       █████████████████████████   100.00 % 
+Neovim                   18 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    19 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    18 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/03/2026 01:49:08 UTC
+ Last Updated on 08/03/2026 01:55:45 UTC
 <!--END_SECTION:waka-->
