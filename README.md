@@ -17,13 +17,13 @@ I'm a engine/systems programmer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-732%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.61%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 508.4 kB Used in GitHub's Storage 
  > 
-> 🏆 137 Contributions in the Year 2026
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,19 +37,19 @@ I'm a engine/systems programmer
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-conf                     4 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
-C                        3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Diff                     2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-gitrebase                59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Diff                     1 hr 59 mins        ████████████████░░░░░░░░░   64.83 % 
+gitrebase                45 mins             ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+mail                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 38 mins      █████████████████████████   100.00 % 
+Neovim                   3 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/03/2026 01:49:35 UTC
+ Last Updated on 12/03/2026 01:54:07 UTC
 <!--END_SECTION:waka-->
