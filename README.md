@@ -23,7 +23,7 @@ I'm a engine/systems programmer
 
 > 📦 508.4 kB Used in GitHub's Storage 
  > 
-> 🏆 144 Contributions in the Year 2026
+> 🏆 145 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,19 +37,17 @@ I'm a engine/systems programmer
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Diff                     1 hr 59 mins        ████████████████░░░░░░░░░   65.60 % 
-gitrebase                45 mins             ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-mail                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Diff                     38 mins             ███████████████████░░░░░░   75.18 % 
+mail                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 2 mins        █████████████████████████   100.00 % 
+Neovim                   51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    51 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2026 02:09:25 UTC
+ Last Updated on 17/03/2026 01:56:18 UTC
 <!--END_SECTION:waka-->
