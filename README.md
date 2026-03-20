@@ -15,21 +15,21 @@ I'm a engine/systems programmer
 
 ### 📺 Stats             
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-732%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.90%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 508.4 kB Used in GitHub's Storage 
+> 📦 508.5 kB Used in GitHub's Storage 
  > 
-> 🏆 147 Contributions in the Year 2026
+> 🏆 153 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -37,15 +37,16 @@ I'm a engine/systems programmer
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 hr 16 mins        ████████████████████████░   96.20 % 
+Diff                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 hr 19 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/03/2026 02:01:21 UTC
+ Last Updated on 20/03/2026 01:55:25 UTC
 <!--END_SECTION:waka-->
