@@ -15,7 +15,7 @@ I'm a engine/systems programmer
 
 ### 📺 Stats             
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-481.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -23,7 +23,7 @@ I'm a engine/systems programmer
 
 > 📦 509.0 kB Used in GitHub's Storage 
  > 
-> 🏆 204 Contributions in the Year 2026
+> 🏆 205 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,19 +37,19 @@ I'm a engine/systems programmer
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-C                        5 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
-HTML                     5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-Diff                     2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-mail                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+HTML                     5 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.66 % 
+C                        4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.59 % 
+mail                     2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Diff                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+conf                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 34 mins      █████████████████████████   100.00 % 
+Neovim                   14 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2026 02:09:05 UTC
+ Last Updated on 04/04/2026 02:01:20 UTC
 <!--END_SECTION:waka-->
