@@ -23,7 +23,7 @@ I'm a engine/systems programmer
 
 > 📦 509.0 kB Used in GitHub's Storage 
  > 
-> 🏆 206 Contributions in the Year 2026
+> 🏆 208 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -31,6 +31,25 @@ I'm a engine/systems programmer
  > 
 > 🔑 6 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 05/04/2026 02:14:56 UTC
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+C                        3 hrs 33 mins       █████████████████░░░░░░░░   66.27 % 
+mail                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Diff                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+neomuttrc                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+gitrebase                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+
+🔥 Editors: 
+Neovim                   5 hrs 22 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 06/04/2026 02:15:53 UTC
 <!--END_SECTION:waka-->
