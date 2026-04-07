@@ -15,15 +15,15 @@ I'm a engine/systems programmer
 
 ### 📺 Stats             
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-767%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-481.58%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-481.61%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 509.0 kB Used in GitHub's Storage 
  > 
-> 🏆 208 Contributions in the Year 2026
+> 🏆 211 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,19 +37,19 @@ I'm a engine/systems programmer
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-C                        3 hrs 33 mins       █████████████████░░░░░░░░   66.27 % 
-mail                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Diff                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-neomuttrc                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-gitrebase                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+C                        2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.97 % 
+Diff                     2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
+mail                     1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+gitrebase                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+neomuttrc                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 22 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 02:15:53 UTC
+ Last Updated on 07/04/2026 02:11:29 UTC
 <!--END_SECTION:waka-->
