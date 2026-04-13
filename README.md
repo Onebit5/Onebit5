@@ -15,7 +15,7 @@ I'm a engine/systems programmer
 
 ### 📺 Stats             
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-481.61%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -23,7 +23,7 @@ I'm a engine/systems programmer
 
 > 📦 509.0 kB Used in GitHub's Storage 
  > 
-> 🏆 217 Contributions in the Year 2026
+> 🏆 218 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -31,6 +31,25 @@ I'm a engine/systems programmer
  > 
 > 🔑 6 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 12/04/2026 02:27:24 UTC
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+C                        9 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.39 % 
+Other                    3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Diff                     3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+neomuttrc                1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+mail                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+
+🔥 Editors: 
+Neovim                   20 hrs 28 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    20 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 13/04/2026 02:32:00 UTC
 <!--END_SECTION:waka-->
