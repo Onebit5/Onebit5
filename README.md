@@ -15,7 +15,7 @@ I'm a engine/systems programmer
 
 ### 📺 Stats             
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-797%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-798%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-481.61%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -23,7 +23,7 @@ I'm a engine/systems programmer
 
 > 📦 509.0 kB Used in GitHub's Storage 
  > 
-> 🏆 237 Contributions in the Year 2026
+> 🏆 238 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,19 +37,19 @@ I'm a engine/systems programmer
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-C                        38 mins             █████████░░░░░░░░░░░░░░░░   35.83 % 
-Kconfig                  23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Makefile                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+C                        38 mins             ████████░░░░░░░░░░░░░░░░░   30.73 % 
+Kconfig                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Makefile                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+jsonc                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 
 🔥 Editors: 
-Neovim                   1 hr 46 mins        █████████████████████████   100.00 % 
+Neovim                   2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/04/2026 02:30:45 UTC
+ Last Updated on 25/04/2026 02:12:37 UTC
 <!--END_SECTION:waka-->
