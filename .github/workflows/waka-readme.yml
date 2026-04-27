@@ -1,33 +1,33 @@
-name: wakatime-stats
+# name: wakatime-stats
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *' # Runs at 00:00 UTC
+# on:
+#  workflow_dispatch:
+#  schedule:
+#    - cron: '0 0 * * *' # Runs at 00:00 UTC
 
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          COMMIT_BY_ME: "False"
-          COMMIT_MESSAGE: "Updated dev metrics"
-          COMMIT_USERNAME: "Onebit5"
-          COMMIT_EMAIL: "azpijr@gmail.com"
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_COMMIT: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_TIMEZONE: "True"
-          SHOW_UPDATED_DATE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_PROFILE_VIEWS: "False"
+# jobs:
+#  update-readme:
+#    name: Update Readme with Metrics
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: anmol098/waka-readme-stats@master
+#        with:
+#          COMMIT_BY_ME: "False"
+#          COMMIT_MESSAGE: "Updated dev metrics"
+#          COMMIT_USERNAME: "Onebit5"
+#          COMMIT_EMAIL: "azpijr@gmail.com"
+#          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#          SHOW_COMMIT: "False"
+#          SHOW_DAYS_OF_WEEK: "False"
+#          SHOW_PROJECTS: "False"
+#          SHOW_LANGUAGE_PER_REPO: "False"
+#          SHOW_LOC_CHART: "False"
+#          SHOW_TIMEZONE: "True"
+#          SHOW_UPDATED_DATE: "True"
+#          SHOW_EDITORS: "True"
+#          SHOW_LANGUAGE: "True"
+#          SHOW_TOTAL_CODE_TIME: "True"
+#          SHOW_LINES_OF_CODE: "True"
+#          SHOW_SHORT_INFO: "True"
+#          SHOW_PROFILE_VIEWS: "False"
