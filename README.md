@@ -12,3 +12,5 @@ check the LKML here (it won't load instantly, be patient):
 maybe you'll find here some of my projects that aren't meant for Linux
 Kernel and you'll find embedded projects or other kind of stuff I
 publish here IDK
+
+oh yeah here is my portfolio website: [click here](https://onebit5.github.io/)
