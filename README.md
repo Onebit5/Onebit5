@@ -1,11 +1,8 @@
 # Hi, name's Jose
 
-**`Kernel Hacker`**
+**`Kernel`**
 
-I'm a kernel developer
-
-TBH, this is **NOT** maintained. if you want to know all stuff I do
-check the LKML here (it won't load instantly, be patient):
+I'm a kernel developer, kinda
 
 [Linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=Perez+de+Azpillaga)
 
